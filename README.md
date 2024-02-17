@@ -53,3 +53,16 @@
 
 - [uuid](https://github.com/uuidjs/uuid)
 - [workbox](https://github.com/GoogleChrome/workbox)
+
+## Other Helpful Repos
+
+- [JavaScript Interview Questions & Answers](https://github.com/sudheerj/javascript-interview-questions)
+- [Commit Lint](https://github.com/conventional-changelog/commitlint)
+- [React+TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react)
+- [Naming cheatsheet](https://github.com/kettanaito/naming-cheatsheet)
+- [Bulletproof React](https://github.com/alan2207/bulletproof-react)
+- [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+## Some Great Github Accounts
+
+- [vanzasetia](https://github.com/vanzasetia) -
+His projects adhere to accessibility standards and offer valuable [resources](https://github.com/vanzasetia/officelite-coming-soon-site/blob/main/docs/README.md)
