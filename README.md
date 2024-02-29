@@ -1,5 +1,10 @@
 # My Resources
 
+## Sites
+
+- [First Timers Only](https://www.firsttimersonly.com/)
+- [Josh W Comeau](https://www.joshwcomeau.com)
+
 ## Practice
 
 - [Typescript Exercises](https://typescript-exercises.github.io/)
