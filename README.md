@@ -1,5 +1,9 @@
 # My Resources
 
+## Practice
+
+- [Typescript Exercises](https://typescript-exercises.github.io/)
+
 ## Languages
 
 - [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
