@@ -31,6 +31,7 @@
 - [NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)]()
 - [The Complete SQL Bootcamp: Go from Zero to Hero](https://www.udemy.com/course/the-complete-sql-bootcamp/)
 - [React, NodeJS, Express & MongoDB - The MERN Fullstack Guide](https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/)
+- [Learn and Understand NodeJS](https://www.udemy.com/course/understand-nodejs/?couponCode=LETSLEARNNOW)
 
 ## Tools
 
